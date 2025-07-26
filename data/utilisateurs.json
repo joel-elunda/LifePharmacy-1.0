@@ -1,0 +1,26 @@
+[
+  {
+    "id": "USR001",
+    "username": "admin",
+    "passwordHash": "$2a$10$ioJA8ybzxIvuJ3Dw/Cz9D.DHLg/JvofgdkJ3vYUnGqxXiCh/sFzeq",
+    "role": "ADMIN"
+  },
+  {
+    "id": "7192d022-7387-411a-ac43-93311910b0a8",
+    "username": "manager",
+    "passwordHash": "$2a$10$Hw0YmcudEw5fQelyuw7QVekaBnb1T0dTwNQiJ.NksEe4ojyke1PvK",
+    "role": "ADMIN"
+  },
+  {
+    "id": "5a2fa35a-c236-475a-83c9-df5e5f1549d3",
+    "username": "bob",
+    "passwordHash": "$2a$10$uAqIqyMk5kUIOL.AB9d6beS8vdOGsqOPOKU4iRzlb4nYy8YqAyXOC",
+    "role": "STOCK"
+  },
+  {
+    "id": "2c6a5dbe-7863-444e-9d54-116a40def7f7",
+    "username": "sarah",
+    "passwordHash": "$2a$10$1wDlgOzH8nMnlcIcnbyXU.m0aSPHSs1QM7UTsteQoYC.naU3kbqLe",
+    "role": "VENTE"
+  }
+]

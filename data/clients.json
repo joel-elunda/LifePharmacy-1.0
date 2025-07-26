@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ff3b5ce8-3ca3-488c-b984-3173ddc41d31",
+    "nom": "John",
+    "prenom": "Doe",
+    "telephone": "+243 99 12 34 567",
+    "adresse": "Likasi, Boulevard KAMANYOLA"
+  },
+  {
+    "id": "01cc6d03-647a-4263-bcad-836aba464914",
+    "nom": "Jane",
+    "prenom": "James",
+    "telephone": "123456789",
+    "adresse": "56, Ave Jane Doe; DFD"
+  }
+]

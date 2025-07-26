@@ -1,0 +1,102 @@
+[
+  {
+    "numeroFacture": "FAC-20250721-001",
+    "dateFacture": "2025-07-21",
+    "client": {
+      "id": "ff3b5ce8-3ca3-488c-b984-3173ddc41d31",
+      "nom": "John",
+      "prenom": "Doe",
+      "telephone": "+243 99 12 34 567",
+      "adresse": "Likasi, Boulevard KAMANYOLA"
+    },
+    "lignesFacture": [
+      {
+        "produit": {
+          "id": "9e92281b-69e1-4dbd-b304-490cb1cf805e",
+          "nom": "Produit 1",
+          "description": "Description produit 1",
+          "prixAchat": 0.0,
+          "prixVente": 0.0,
+          "prixUnitaire": 12500.0,
+          "quantiteEnStock": 105,
+          "datePeremption": "2025-07-21"
+        },
+        "quantite": 10,
+        "prixUnitaireVendu": 12500.0
+      },
+      {
+        "produit": {
+          "id": "3409767e-be0f-4d29-af59-48ddd0e310ab",
+          "nom": "Produit 3",
+          "description": "Description 3",
+          "prixAchat": 0.0,
+          "prixVente": 0.0,
+          "prixUnitaire": 1570.0,
+          "quantiteEnStock": 25,
+          "datePeremption": "2025-07-21"
+        },
+        "quantite": 5,
+        "prixUnitaireVendu": 1570.0
+      }
+    ],
+    "total": 132850.0,
+    "isProforma": false
+  },
+  {
+    "numeroFacture": "FAC-20250721-002",
+    "dateFacture": "2025-07-21",
+    "client": {
+      "id": "01cc6d03-647a-4263-bcad-836aba464914",
+      "nom": "Jane",
+      "prenom": "James",
+      "telephone": "123456789",
+      "adresse": "56, Ave Jane Doe; DFD"
+    },
+    "lignesFacture": [
+      {
+        "produit": {
+          "id": "9e92281b-69e1-4dbd-b304-490cb1cf805e",
+          "nom": "Produit 1",
+          "description": "Description produit 1",
+          "prixAchat": 0.0,
+          "prixVente": 0.0,
+          "prixUnitaire": 12500.0,
+          "quantiteEnStock": 95,
+          "datePeremption": "2025-07-21"
+        },
+        "quantite": 5,
+        "prixUnitaireVendu": 12500.0
+      },
+      {
+        "produit": {
+          "id": "aa1a8d6f-5648-42fc-8176-25267ea35007",
+          "nom": "Produit 2",
+          "description": "Description 2",
+          "prixAchat": 0.0,
+          "prixVente": 0.0,
+          "prixUnitaire": 140000.0,
+          "quantiteEnStock": 30,
+          "datePeremption": "2030-07-19"
+        },
+        "quantite": 14,
+        "prixUnitaireVendu": 140000.0
+      },
+      {
+        "produit": {
+          "id": "3409767e-be0f-4d29-af59-48ddd0e310ab",
+          "nom": "Produit 3",
+          "description": "Description 3",
+          "prixAchat": 0.0,
+          "prixVente": 0.0,
+          "prixUnitaire": 1570.0,
+          "quantiteEnStock": 20,
+          "datePeremption": "2025-07-21"
+        },
+        "quantite": 11,
+        "prixUnitaireVendu": 1570.0
+      }
+    ],
+    "total": 2039770.0,
+    "isProforma": true
+  }
+]
